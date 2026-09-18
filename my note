@@ -1,0 +1,7 @@
+Đây có lẽ là phần giới thiệu dễ hiểu nhất về coding agent mà tôi từng xem.
+
+Toàn bộ dự án chỉ được chia thành năm tệp cốt lõi nhưng vẫn bao quát những thành phần quan trọng: stream phản hồi từ mô hình, gọi công cụ, chỉnh sửa tệp, thực thi lệnh shell và vòng lặp của agent.
+
+Phần hướng dẫn được xây dựng đặc biệt trực quan. Nội dung giải thích nằm ở bên trái, còn mã nguồn tự động hoàn thiện ở bên phải khi bạn cuộn trang. Ngoài ra còn có chế độ theo dõi, giúp xem từng thay đổi trong ngữ cảnh và từng lần gọi công cụ.
+
+Đây là một điểm khởi đầu phù hợp nếu bạn đang muốn tìm hiểu coding agent thực sự hoạt động như thế nào.
